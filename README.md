@@ -1,7 +1,7 @@
 - 👋 Hi, I’m IT professional.
 - 👀 I’m passionate about AI and Mobile development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on computer vision projects
+- 🌱 I’m currently learning Flutter + BLOC.
+- 💞️ I’m looking to collaborate on computer vision and mobile projects.
 - 📫 How to reach me? In progress...
 
 <!---
